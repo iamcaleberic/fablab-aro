@@ -1,0 +1,101 @@
+/*Fablab Aro*/
+
+body {opacity: 0.8;
+	   height: 500px;
+	   /*padding: 40px;*/
+	   /*margin-top: 70px;*/	
+/*	   background: url("assets/space.jpg") no-repeat center center fixed;;
+*/	    background-size: cover;	
+			}    
+.top-nav-collapse {
+    background-color: black !important;
+    color: blue;
+}
+/* Small Devices, Tablets */
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #3F729B !important;
+    }
+}
+.intro {opacity: 0.8;
+		   height: 250px;
+		   padding: 80px;
+		   /*margin-top: 70px;*/	
+		   background: url("assets/space.jpg") no-repeat center center fixed;;
+            background-size: cover;	
+				}
+.about {opacity: 0.8;
+		   height: 600px;
+		   padding: 40px;
+		   margin-top: 10px;
+
+		   background: #bdbdbd;
+            background-size: cover;	
+				}
+
+h1{color:white !important;}
+
+.team {opacity: 0.8;
+		   height: auto;
+			padding: 40px;
+		   margin-top: 10px;	
+		   background: #bdbdbd;
+            background-size: cover;	
+				}
+.location{
+		  	
+		   }
+.gallery{
+	opacity: 0.8;
+   	height: auto;
+	padding: 40px;
+   	margin-top: 10px;	
+   	background: #bdbdbd;
+    background-size: cover;	
+}
+.contact{
+	opacity: 0.8;
+   	height: auto;
+	padding: 40px;
+   	margin-top: 10px;	
+   	background: #bdbdbd;
+    background-size: cover;	
+}
+.member{
+	opacity: 0.8;
+   	height: auto;
+	padding: 40px;
+   	margin-top: 10px;	
+   	background: #bdbdbd;
+    background-size: cover;	
+}
+.what{
+	opacity: 0.8;
+   	height: auto;
+	padding: 40px;
+   	margin-top: 10px;	
+   	background: #bdbdbd;
+    background-size: cover;	
+}
+.support{
+	opacity: 0.8;
+   	height: auto;
+	padding: 40px;
+   	margin-top: 10px;	
+   	background: #bdbdbd;
+    background-size: cover;	
+}
+.patner{
+	opacity: 0.8;
+   	height: auto;
+	padding: 40px;
+   	margin-top: 10px;	
+   	background: #bdbdbd;
+    background-size: cover;	
+}
+h4{text-align: center;}
+.col-md-3{float: left !important;
+	 display: inline-block !important;
+}
+li {color: black !important;}
