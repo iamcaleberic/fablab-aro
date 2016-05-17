@@ -94,6 +94,14 @@ h1{color:white !important;}
    	background: #bdbdbd;
     background-size: cover;	
 }
+.machines{
+	opacity: 0.8;
+   	height: auto;
+	padding: 40px;
+   	margin-top: 10px;	
+   	background: #bdbdbd;
+    background-size: cover;	
+}
 h4{text-align: center;}
 .col-md-3{float: left !important;
 	 display: inline-block !important;
