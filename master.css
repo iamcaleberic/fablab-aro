@@ -26,7 +26,7 @@ body {opacity: 100;
             background-size: cover;	
 				}
 .about {opacity: 0.8;
-		   height: 600px;
+		   height: auto;
 		   padding: 40px;
 		   margin-top: 10px;
 
